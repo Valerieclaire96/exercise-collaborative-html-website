@@ -1,0 +1,33 @@
+.form {
+    height: 250px;
+    width: 700px;
+    background-color: rgba(240, 235, 228, 0.3);
+    margin-left: 100px;
+    padding-right: 20px;
+    padding-top: 10px;
+    
+}
+body {
+    width: 1000px;
+    padding-left: 100px;
+}
+.words{
+    font-size: 20px;
+}
+.button {
+    padding-left: 600px;
+    padding-top: 10px;
+}
+.boxes {
+    width: 400px;
+    float: right;
+}
+label {
+    padding-left: 200px;
+}
+.mb-3 {
+    padding-left: 75px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
