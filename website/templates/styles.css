@@ -2,7 +2,7 @@
     height: 250px;
     width: 700px;
     background-color: rgba(240, 235, 228, 0.3);
-    margin-left: 100px;
+    /*margin-left: 100px;*/
     padding-right: 20px;
     padding-top: 10px;
     
@@ -23,11 +23,11 @@ body {
     float: right;
 }
 label {
-    padding-left: 200px;
+    /*padding-left: 200px;*/
 }
 .mb-3 {
     padding-left: 75px;
-    display: flex;
+   /* display: flex;
     flex-direction: row;
-    margin: auto;
+    margin: auto; */
 }
